@@ -1,9 +1,10 @@
-﻿using System;
+﻿using MyLibraryLibrary.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace MyLibraryLibrary.Shop
+namespace MyLibraryLibrary.Entities
 {
     /// <summary>
     /// Describe an item that can be sold in a shop.

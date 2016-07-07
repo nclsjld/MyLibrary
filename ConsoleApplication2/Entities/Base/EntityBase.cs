@@ -8,12 +8,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyLibraryLibrary.Shop
+namespace MyLibraryLibrary.Entities
 {
     public class EntityBase : INotifyPropertyChanged, IFakerLoader<EntityBase>
     {
-
-
         private int id;
 
         [Key]

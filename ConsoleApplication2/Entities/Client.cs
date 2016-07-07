@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 
-namespace MyLibraryLibrary.Shop
+namespace MyLibraryLibrary.Entities
 {
     /// <summary>
     /// Describe a client which is a user that buy product in a shop.

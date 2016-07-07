@@ -1,4 +1,4 @@
-﻿using MyLibraryLibrary.Shop;
+﻿using MyLibraryLibrary.Entities;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;

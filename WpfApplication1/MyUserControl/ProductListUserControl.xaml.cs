@@ -1,4 +1,4 @@
-﻿using MyLibraryLibrary.Shop;
+﻿using MyLibraryLibrary.Entities;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;

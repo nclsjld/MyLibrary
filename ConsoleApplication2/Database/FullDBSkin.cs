@@ -1,4 +1,5 @@
-﻿using MyLibraryLibrary.Enums;
+﻿using MyLibraryLibrary.Entities;
+using MyLibraryLibrary.Enums;
 using MyLibraryLibrary.Shop;
 using System;
 using System.Collections.Generic;

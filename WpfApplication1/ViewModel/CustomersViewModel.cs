@@ -1,9 +1,9 @@
 ﻿using ClassLibrary2.WebService;
 using MyLibraryLibrary.AsyncTask;
 using MyLibraryLibrary.Database;
+using MyLibraryLibrary.Entities;
 using MyLibraryLibrary.Enums;
 using MyLibraryLibrary.JSON;
-using MyLibraryLibrary.Shop;
 using System;
 using System.Collections.Generic;
 using System.Linq;

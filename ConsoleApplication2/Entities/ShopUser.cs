@@ -1,10 +1,12 @@
-﻿using System;
+﻿using MyLibraryLibrary.Entities;
+using MyLibraryLibrary.Shop;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 
-namespace MyLibraryLibrary.Shop
+namespace MyLibraryLibrary.Entities
 {
     /// <summary>
     /// Define globaly a shop user it will be a Client or an Owner.
