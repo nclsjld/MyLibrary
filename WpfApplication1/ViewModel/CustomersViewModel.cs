@@ -1,9 +1,9 @@
 ﻿using ClassLibrary2.WebService;
-using ConsoleApplication2.AsyncTask;
-using ConsoleApplication2.Database;
-using ConsoleApplication2.Enums;
-using ConsoleApplication2.JSON;
-using ConsoleApplication2.Shop;
+using MyLibraryLibrary.AsyncTask;
+using MyLibraryLibrary.Database;
+using MyLibraryLibrary.Enums;
+using MyLibraryLibrary.JSON;
+using MyLibraryLibrary.Shop;
 using System;
 using System.Collections.Generic;
 using System.Linq;

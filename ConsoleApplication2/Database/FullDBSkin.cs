@@ -1,5 +1,5 @@
-﻿using ConsoleApplication2.Enums;
-using ConsoleApplication2.Shop;
+﻿using MyLibraryLibrary.Enums;
+using MyLibraryLibrary.Shop;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication2.Database
+namespace MyLibraryLibrary.Database
 {
     [DbConfigurationType(typeof(MySql.Data.Entity.MySqlEFConfiguration))]
     class FullDBSkin : DbContext

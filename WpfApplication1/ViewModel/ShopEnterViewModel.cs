@@ -1,4 +1,4 @@
-﻿using ConsoleApplication2.Shop;
+﻿using MyLibraryLibrary.Shop;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -104,16 +104,16 @@ namespace WpfApplication1.ViewModel
 
         private Product SetupProduct()
         {
-            ConsoleApplication2.Shop.Product product = new Cold();
+            MyLibraryLibrary.Shop.Product product = new Cold();
             product.Id = 1;
             product.Name = "Glace";
             product.Price = new Decimal(10);
             return product;
         }
 
-        private ConsoleApplication2.Shop.Client SetupClient()
+        private MyLibraryLibrary.Shop.Client SetupClient()
         {
-            ConsoleApplication2.Shop.Client client = new ConsoleApplication2.Shop.Client();
+            MyLibraryLibrary.Shop.Client client = new MyLibraryLibrary.Shop.Client();
             client.Id = 1;
             client.Name = "Jhon";
             client.Surname = "Roger";
@@ -121,9 +121,9 @@ namespace WpfApplication1.ViewModel
             return client;
         }
 
-        private ConsoleApplication2.Shop.Client SetupClient1()
+        private MyLibraryLibrary.Shop.Client SetupClient1()
         {
-            ConsoleApplication2.Shop.Client client = new ConsoleApplication2.Shop.Client();
+            MyLibraryLibrary.Shop.Client client = new MyLibraryLibrary.Shop.Client();
             client.Id = 3;
             client.Name = "JhonJhonJhon";
             client.Surname = "Alladin";
